@@ -1,0 +1,13 @@
+PERSONAL EXPENSE TRACKER APPLICATION
+
+Team ID : PNT2022TMID03112
+
+Team Size : 4
+
+Team Leader : KAVINAYA V
+
+Team member : KAVYA T
+
+Team member : KEERAN
+
+Team member : KEERTHANA S
